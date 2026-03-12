@@ -27,7 +27,7 @@ These practices are designed to showcase my ability to write clean, maintainable
 
 ### 🛠 Tech Stack
 * **Language:** Java (SE)
-* **Development Environment:** [IDE, e.g., IntelliJ IDEA / Eclipse / NetBeans]
+* **Development Environment:** [IDE, Eclipse / NetBeans]
 * **Version Control:** Git & GitHub
 
 ---
